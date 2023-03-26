@@ -1,0 +1,28 @@
+1 student info is: 
+ID : 1
+Name : Mahmudul Hasan
+CGPA : 3.4
+2 student info is: 
+ID : 2
+Name : Robiul Islam
+CGPA : 2.3
+3 student info is: 
+ID : 3
+Name : Rabeya Begum
+CGPA : 3.8
+4 student info is: 
+ID : 4
+Name : Zakir Hossain
+CGPA : 2.8
+5 student info is: 
+ID : 5
+Name : Kuddus Islam
+CGPA : 3.6
+1 student info is: 
+ID : 7
+Name : Morium Khandakar
+CGPA : 2.9
+2 student info is: 
+ID : 8
+Name : Hero Alam
+CGPA : 3.5
